@@ -1,2 +1,2 @@
 # Aprendizado-Bootcamp-Bradesco
-Repositório dos exercicios básicos do Bootcamp da Dio/Bradesco 
+Repositório para guardar meu aprendizado adiquirido no Bootcamp do Bradesco
